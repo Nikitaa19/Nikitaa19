@@ -1,4 +1,4 @@
-### Hi 👋, I'm Nikita Agarwal
+### Hi 👋, I'm Nikita Agarwal.
 
 <!--
 **Nikitaa19/Nikitaa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
