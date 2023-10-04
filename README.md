@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikita Agarwal.
+Hi 👋 My name is Nikita Agarwal
 ================================
 
 * ✉️  You can contact me at [agarwalnikita064@gmail.com](mailto:agarwalnikita064@gmail.com)
