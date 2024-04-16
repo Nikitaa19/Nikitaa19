@@ -1,7 +1,7 @@
 Hi 👋 My name is Nikita Agarwal.
 ================================
 
-Machine Learning 
+Machine 
 -------------------------
 
 * 🌍  I'm based in India.
