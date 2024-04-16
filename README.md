@@ -1,8 +1,6 @@
 Hi 👋 My name is Nikita Agarwal.
 ================================
 
-
-
 * 🌍  I'm based in India.
 * ✉️  You can contact me at [agarwalnikita064@gmail.com](mailto:agarwalnikita064@gmail.com)
 * 🧠  I'm learning Artificial Intelligence.
