@@ -1,7 +1,6 @@
 Hi 👋 My name is Nikita Agarwal.
 ================================
 
-Machine 
 -------------------------
 
 * 🌍  I'm based in India.
