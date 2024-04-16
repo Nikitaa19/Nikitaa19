@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikita Agarwal.
+Hi My name is Nikita Agarwal.
 ================================
 
 * 🌍  I'm based in India.
