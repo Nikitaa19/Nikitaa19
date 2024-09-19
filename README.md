@@ -25,4 +25,23 @@ Hi! I'm Nikita Agarwal.
 
 <a href="https://github.com/Nikitaa19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitaa19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+name: my-badges
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  my-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update My Badges
+        run: npx update-my-badges ${{github.repository_owner}}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
