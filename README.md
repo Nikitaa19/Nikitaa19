@@ -25,6 +25,6 @@ Hi! I'm Nikita Agarwal.
 
 <a href="https://github.com/Nikitaa19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikitaa19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nikitaa19&theme=onedark)](https://github.com/Nikitaa19/github-profile-trophy)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
