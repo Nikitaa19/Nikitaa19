@@ -1,4 +1,4 @@
-Hi! I'm Nikita Agarwal
+Hi! I'm Nikita Agarwal.
 ================================
 
 * 🌍  I'm based in India.
