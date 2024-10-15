@@ -1,4 +1,5 @@
-![alt text](https://github.com/[Nikitaa19]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![technology-monitor-alpha-coders-binary-wallpaper-preview](https://github.com/user-attachments/assets/95620391-241b-4623-b1b6-73cbe4bc18e8)
 
 Hi! I'm Nikita Agarwal.
 ================================
