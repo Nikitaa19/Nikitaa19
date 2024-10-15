@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[Nikitaa19]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 Hi! I'm Nikita Agarwal.
 ================================
