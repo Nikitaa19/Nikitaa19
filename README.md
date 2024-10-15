@@ -1,4 +1,4 @@
-![_987e853d-0948-4071-b5db-55d414ea76c1](https://github.com/user-attachments/assets/c04e008a-153b-4b1c-bd6e-5ceb5e4213e0)
+![futuristic-robot-working-code_204719-28890](https://github.com/user-attachments/assets/46aba801-0810-4656-bffa-c01fca1901ae)
 
 Hi! I'm Nikita Agarwal.
 ================================
