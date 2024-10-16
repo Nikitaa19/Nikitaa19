@@ -28,4 +28,6 @@ Hi! I'm Nikita Agarwal.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nikitaa19&theme=onedark)](https://github.com/Nikitaa19/github-profile-trophy)
 
+[![Nikita Agarwal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikitaa19&bg_color=000000&color=ffffff&line=ff8f8f&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
