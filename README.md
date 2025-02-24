@@ -1,6 +1,6 @@
 ![futuristic-robot-working-code_204719-28890](https://github.com/user-attachments/assets/46aba801-0810-4656-bffa-c01fca1901ae)
 
-Hi! I'm Nikita Agarwal
+Hi! I'm Nikita Agarwal.
 ================================
 
 * 🌍  I'm based in India
